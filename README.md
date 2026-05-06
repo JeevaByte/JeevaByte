@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Jeevanantham Balakrishnan, a Cloud & DevOps Engineer with a passion for building scalable, resilient, and automated cloud solutions. With over 8 years of experience in AWS, Terraform, CI/CD, and infrastructure automation, I specialize in designing high-availability architectures and optimizing cloud workflows.<br><br>I'm currently pursuing my MSc in Cloud Computing at the University of Leicester, deepening my expertise in distributed systems, serverless architectures, and big data processing.<br><br>🔹 Tech Stack: AWS | Terraform | Kubernetes | CI/CD | Python | Docker<br>🔹 Interests: Cloud Infrastructure | DevOps Automation | AI in Cloud | FinTech
 
 
